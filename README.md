@@ -16,7 +16,7 @@ Welcome to my portfolio! This repository showcases my work in Machine Learning, 
 - Implemented in Python.
 
 ### 3. Kaggle Project *(Coming Soon)*
-**Planned Repo:** `kaggle-project`
+**Planned Repo:** [kaggle-project](https://github.com/ebertlea/kaggle-project)
 - A data science project using a Kaggle dataset.
 - Focus on exploratory data analysis, feature engineering, and ML model development.
 
