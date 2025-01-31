@@ -5,7 +5,7 @@ Welcome to my portfolio! This repository showcases my work in Machine Learning, 
 ## 📌 Projects
 
 ### 1. Contrastive Learning on MNIST
-**Repo:** [contrastive-learning-mnist](https://github.com/ebertlea/Contrastive_Learning_MNIST)
+**Repo:** [contrastive-learning-mnist](https://github.com/ebertlea/contrastive-learning-mnist)
 - Implementation of contrastive learning on the MNIST dataset.
 - Inspired by my MSc thesis work on contrastive learning for COVID antibody test images.
 - Uses PyTorch for model training and evaluation.
