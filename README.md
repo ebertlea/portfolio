@@ -22,6 +22,11 @@ SimCLR-style contrastive learning on MNIST, building on my MSc thesis work — a
 - Linear evaluation benchmark to measure representation quality
 - Built with PyTorch
 
+### Christmas SQL Coding Challenge
+**Repo:** [christmas-coding-challenge](https://github.com/ebertlea/christmas-coding-challenge)
+
+Advent-style daily coding challenge run by the Women Coding Community (December 2025). I used the 19 days to refresh my SQL skills, committing a new query each day. Topics progress from basic SELECT and JOINs through GROUP BY, subqueries, DATETIME functions, and window aggregates (SUM OVER, PARTITION BY).
+
 ### LeetCode Top 75
 **Repo:** [coding-challenges](https://github.com/ebertlea/coding-challenges)
 
